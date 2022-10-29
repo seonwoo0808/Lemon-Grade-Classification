@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+lemon_dataset/
+test_dataset/
+lemon_model.h5
